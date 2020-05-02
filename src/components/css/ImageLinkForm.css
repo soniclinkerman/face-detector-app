@@ -1,0 +1,26 @@
+.heading {
+    font-size: 2em;
+    color: white;
+}
+
+.text-field{
+    width: 400px;
+    padding: 0.6em;
+}
+
+.btn{
+    margin-top: 1.5em;
+    margin-left: 1em;
+    border: none;
+    padding: 0.35em;
+    width: 200px;
+    background-color: #149cf7;
+    font-size: 1.5em;
+    color: #FFF;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    background-color: #0092f3;
+}

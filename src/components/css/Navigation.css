@@ -1,0 +1,17 @@
+.sign-out{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 2em;
+}
+
+.sign-out-link{
+ font-size: 1.5em;
+ color: #000;
+ padding: 0.5em;
+}
+
+.sign-out-link:hover{
+    font-size: 1.5em;
+    color: #3d3d3d;
+
+   }

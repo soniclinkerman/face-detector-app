@@ -1,0 +1,9 @@
+.Tilt{
+    background: linear-gradient(90deg, rgb(248, 74, 74) 0%, rgb(245, 75, 75) 35%, rgb(133, 5, 5) 100%);
+    margin-left: 2em;
+}
+.fas {
+    font-size: 5em;
+    margin: 0.4em 0;
+    color: #e99999;
+}
